@@ -1,4 +1,5 @@
 # LitLinker
+[Paper](https://arxiv.org/pdf/2502.16097)
 
 # Backend
 ## Requirements
